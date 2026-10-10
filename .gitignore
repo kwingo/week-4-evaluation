@@ -1,0 +1,13 @@
+# Protect API keys
+.env
+*.env
+.env.*
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Mac files
+.DS_Store
